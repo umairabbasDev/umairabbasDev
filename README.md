@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="700" height="260"/> 
+  <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="600" height="200"/> 
   <!--<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="800" height="350"/>-->
 </div>
 

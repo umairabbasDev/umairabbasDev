@@ -10,18 +10,18 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=umairabbasDev&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, i'm Umair Muhammad Abbas
+  Hi, it's Umair Muhammad Abbas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="600" height="200"/> 
-  <!--<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="800" height="350"/>-->
-</div>
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="800" height="350"/>
+</div>-->
 
-- :telescope: I’m a full time Software Engineer and full stack web developer.
-- :zap: Love to Explore new technologies.
+- :telescope: I’m a full time self-thought Software Engineer and full stack web developer.
+- :zap:I Love to Explore new technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-umair-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umair-abbas-a43503121)
 ---
@@ -52,8 +52,14 @@
 </div>
 
 ---
-
 ###  :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umairabbasDev&theme=dark&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<div style="display:flex; justify-content:center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=umairabbasDev&theme=dark&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="48%" style="margin-right:2%; margin-top:5px; margin-bottom:5px; height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairabbasDev&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%" style="margin-left:2%; margin-top:5px; margin-bottom:5px; height: 150px;">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairabbasDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umairabbasDev&theme=dark&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairabbasDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+

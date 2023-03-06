@@ -38,7 +38,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-umair-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umair-abbas-a43503121)
 ---
-<!--
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VS Code" alt="vscode" width="40" height="40"/>
 </div>
--->
+
 ###  My Stats :
 <div style="display:flex; justify-content:center">
     <img  src="https://github-readme-streak-stats.herokuapp.com?user=umairabbasDev&theme=dark&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="48%" style="margin-right:2%; margin-top:5px; margin-bottom:5px; height: 150px;">

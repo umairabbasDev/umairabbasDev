@@ -1,0 +1,472 @@
+<svg fill="none" viewBox="0 0 1200 700"  height="1200" width="700" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .main {
+                background-color: #272727;
+                padding: 10px;
+                }
+          
+                .fakeButtons {
+                height: 10px;
+                width: 10px;
+                border-radius: 50%;
+                border: 1px solid #000;
+                position: relative;
+                top: 6px;
+                left: 6px;
+                background-color: #ff3b47;
+                border-color: #9d252b;
+                display: inline-block;
+                }
+          
+                .fakeMinimize {
+                left: 11px;
+                background-color: #ffc100;
+                border-color: #9d802c;
+                }
+          
+                .fakeZoom {
+                left: 16px;
+                background-color: #00d742;
+                border-color: #049931;
+                }
+          
+                .fakeMenu {
+                width: px;
+                box-sizing: border-box;
+                height: 25px;
+                background-color: #bbb;
+                margin: 0 auto;
+                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;
+                }
+          
+                .fakeScreen {
+                background-color: #151515;
+                box-sizing: border-box;
+                width: auto;
+                margin: 0 auto;
+                padding: 20px;
+                border-bottom-left-radius: 5px;
+                border-bottom-right-radius: 5px;
+                }
+          
+                p {
+                position: relative;
+                <!-- left: 50%; -->
+                <!-- margin-left: -8.5em; -->
+                text-align: left;
+                font-size: 1.25em;
+                font-family: monospace;
+                white-space: nowrap;
+                overflow: hidden;
+                width: 0;
+                }
+          
+                span {
+                color: #fff;
+                font-weight: bold;
+                }
+          
+                .line1 {
+                color: #9CD9F0;
+                -webkit-animation: type .5s 1s steps(20, end) forwards;
+                -moz-animation: type .5s 1s steps(20, end) forwards;
+                -o-animation: type .5s 1s steps(20, end) forwards;
+                animation: type .5s 1s steps(20, end) forwards;
+                }
+          
+          
+          
+                .cursor1 {
+                -webkit-animation: blink 1s 2s 2 forwards;
+                -moz-animation: blink 1s 2s 2 forwards;
+                -o-animation: blink 1s 2s 2 forwards;
+                animation: blink 1s 2s 2 forwards;
+                }
+          
+                .line2 {
+                color: #CDEE69;
+                -webkit-animation: type .5s 4.25s steps(20, end) forwards;
+                -moz-animation: type .5s 4.25s steps(20, end) forwards;
+                -o-animation: type .5s 4.25s steps(20, end) forwards;
+                animation: type .5s 4.25s steps(20, end) forwards;
+                }
+          
+                .cursor2 {
+                -webkit-animation: blink 1s 5.25s 2 forwards;
+                -moz-animation: blink 1s 5.25s 2 forwards;
+                -o-animation: blink 1s 5.25s 2 forwards;
+                animation: blink 1s 5.25s 2 forwards;
+                }
+                .mainLine {
+                    color: #00FF00;
+                    font-family: monospace;
+                white-space: nowrap;
+                width: 0;
+                    }
+          
+                    .commmand {
+                        color: #00FF00;
+                        font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    margin-top:-17px;
+                    margin-left:55px;
+                        <!-- opacity: 1; -->
+          
+                        -webkit-animation: type .5s 0.5s steps(20, end) forwards;
+                        -moz-animation: type .5s 0.5s steps(20, end) forwards;
+                        -o-animation: type .5s 0.5s steps(20, end) forwards;
+                        animation: type .5s 0.5s steps(20, end) forwards;
+                        }
+          
+                .line3 {
+                color: #E09690;
+                -webkit-animation: type .5s 7.5s steps(20, end) forwards;
+                -moz-animation: type .5s 7.5s steps(20, end) forwards;
+                -o-animation: type .5s 7.5s steps(20, end) forwards;
+                animation: type .5s 7.5s steps(20, end) forwards;
+                }
+          
+                .cursor3 {
+                -webkit-animation: blink 1s 8.5s 2 forwards;
+                -moz-animation: blink 1s 8.5s 2 forwards;
+                -o-animation: blink 1s 8.5s 2 forwards;
+                animation: blink 1s 8.5s 2 forwards;
+                }
+          
+                .line4 {
+                    color: #00FF00;
+                    width:100%;
+                    font-family: monospace;
+                white-space: nowrap;
+                overflow: hidden;
+                width: 0;
+                -webkit-animation: next .5s 2.75s steps(20, end) forwards;
+                -moz-animation: next .5s 2.75s steps(20, end) forwards;
+                -o-animation: next .5s 2.75s steps(20, end) forwards;
+                animation: next .5s 2.75s steps(20, end) forwards;
+                }
+          
+                .cursor4 {
+                -webkit-animation: blink 1s 4.5s infinite;
+                -moz-animation: blink 1s 3.5s infinite;
+                -o-animation: blink 1s 3.5s infinite;
+                animation: blink 1s 3.5s infinite;
+                }
+          
+                <!-- list items -->
+                .framework {
+                    color: #9cd9f0;
+                    font-size: 1.25em;
+                    font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    -webkit-animation: type 0.5s 1s steps(20, end) forwards;
+                    -moz-animation: type 0.5s 1s steps(20, end) forwards;
+                    -o-animation: type 0.5s 1s steps(20, end) forwards;
+                    animation: type 0.5s 1s steps(20, end) forwards;
+                }
+                .lang {
+                    color: #F15A24;
+                    font-size: 1.25em;
+                    font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    -webkit-animation: type 0.5s 1.5s steps(20, end) forwards;
+                    -moz-animation: type 0.5s 1.5s steps(20, end) forwards;
+                    -o-animation: type 0.5s 1.5s steps(20, end) forwards;
+                    animation: type 0.5s 1.5s steps(20, end) forwards;
+                }
+                .lib {
+                    color: #E09690;
+                    font-size: 1.25em;
+                    font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    -webkit-animation: type 0.5s 2s steps(20, end) forwards;
+                    -moz-animation: type 0.5s 2s steps(20, end) forwards;
+                    -o-animation: type 0.5s 2s steps(20, end) forwards;
+                    animation: type 0.5s 2s steps(20, end) forwards;
+          
+          
+          
+                }
+                .DB {
+                    color: #73D216;
+                    font-size: 1.25em;
+                    font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    -webkit-animation: type 0.5s 2.2s steps(20, end) forwards;
+                    -moz-animation: type 0.5s 2.2s steps(20, end) forwards;
+                    -o-animation: type 0.5s 2.2s steps(20, end) forwards;
+                    animation: type 0.5s 2.2s steps(20, end) forwards;
+                }
+          
+          
+                .tool {
+                    color: #CDEE69;
+                    font-size: 1.25em;
+                    font-family: monospace;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    width: 0;
+                    -webkit-animation: type 0.5s 2.5s steps(20, end) forwards;
+                    -moz-animation: type 0.5s 2.5s steps(20, end) forwards;
+                    -o-animation: type 0.5s 2.5s steps(20, end) forwards;
+                    animation: type 0.5s 2.5s steps(20, end) forwards;
+                }
+          
+               
+          
+          
+          
+                <!-- animations -->
+                @-webkit-keyframes blink {
+                0% {
+                opacity: 0;
+                }
+                40% {
+                opacity: 0;
+                }
+                50% {
+                opacity: 1;
+                }
+                90% {
+                opacity: 1;
+                }
+                100% {
+                opacity: 0;
+                }
+                }
+          
+                @-moz-keyframes blink {
+                0% {
+                opacity: 0;
+                }
+                40% {
+                opacity: 0;
+                }
+                50% {
+                opacity: 1;
+                }
+                90% {
+                opacity: 1;
+                }
+                100% {
+                opacity: 0;
+                }
+                }
+          
+                @-o-keyframes blink {
+                0% {
+                opacity: 0;
+                }
+                40% {
+                opacity: 0;
+                }
+                50% {
+                opacity: 1;
+                }
+                90% {
+                opacity: 1;
+                }
+                100% {
+                opacity: 0;
+                }
+                }
+          
+                @keyframes blink {
+                0% {
+                opacity: 0;
+                }
+                40% {
+                opacity: 0;
+                }
+                50% {
+                opacity: 1;
+                }
+                90% {
+                opacity: 1;
+                }
+                100% {
+                opacity: 0;
+                }
+                }
+          
+                @-webkit-keyframes type {
+                to {
+                width: 17em;
+                }
+                }
+          
+                @-moz-keyframes type {
+                to {
+                width: 17em;
+                }
+                }
+          
+                @-o-keyframes type {
+                to {
+                width: 17em;
+                }
+                }
+          
+                @keyframes type {
+                to {
+                width: 17em;
+                }
+                }
+
+                @-webkit-keyframes next {
+                    to {
+                    width: 100%;
+                    }
+                    }
+              
+                    @-moz-keyframes next {
+                    to {
+                    width: 100%;
+                    }
+                    }
+              
+                    @-o-keyframes next {
+                    to {
+                    width: 100%;
+                    }
+                    }
+              
+                    @keyframes next {
+                    to {
+                    width: 100%;
+                    }
+                    }
+                <!-- colors -->
+                .red{
+                    color:#EF2929;
+                }
+          
+                .lime{
+                    color: #00FF00;
+                }
+          
+                .l-yellow{
+                    color:#FCE946;
+                }
+                .frozi{
+                    color:#34E2E2;
+                }
+                .t-green{
+                    color:#4E9A06;
+                }
+              </style>
+            <!-- <div class="main"> -->
+                <div class="fakeMenu">
+                    <div class="fakeButtons fakeClose"></div>
+                    <div class="fakeButtons fakeMinimize"></div>
+                    <div class="fakeButtons fakeZoom"></div>
+                  </div>
+                  <div class="fakeScreen">
+                    <span class="mainLine red">┌─[<span class="lime">software-engineer</span><span class="l-yellow">@</span><span class="frozi">full-stack-web-dev</span>]─[<span class="t-green">~</span>]</span>
+                    <div class="mainLine red">
+                        └──╼<span class="l-yellow"> $</span>
+                      <div class="commmand">sudo skills --show</div>
+                    </div>
+              
+                    <table style="margin-left:8px" >
+                        <tr >
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] Tailwind CSS </div></td>
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] Bottstrap </div></td>
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] Nextjs </div></td>
+                        </tr>
+
+                        <tr >
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] MERN Stack </div></td>
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] Astro </div></td>
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] React.js(lib) </div></td>
+                        </tr>
+
+                        
+ <tr >
+    <td><div class="framework">[<span class="l-yellow">✗</span>] Expressjs </div></td>
+    <td><div class="framework">[<span class="l-yellow">✗</span>] Laravel </div></td>
+    <td><div class="framework">[<span class="l-yellow">✗</span>] Django </div></td>
+</tr>          
+ <tr >
+    <td><div class="framework">[<span class="l-yellow">✗</span>] Tkinter </div></td>
+</tr>
+ 
+
+
+
+                        <tr >
+                            <td ><div class="lang">[<span class="l-yellow">✗</span>] HTML/CSS </div></td>
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] JavaScript (JS) </div></td>
+                        </tr>
+                        <tr >
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] TypeScript (TS) </div></td>
+                            <td><div class="lang ">[<span class="l-yellow">✗</span>] Python </div></td>
+                        </tr>
+                        
+                        <tr >
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] R </div></td>
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] C++ </div></td>
+                        </tr>
+
+                        <tr >
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] PHP </div></td>
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] C# </div></td>
+                        </tr>
+                        <tr >
+                            
+                            <td><div class="lang">[<span class="l-yellow">✗</span>] Bash </div></td>
+                        </tr>
+
+
+                        <tr >
+                            <td><div class="lib">[<span class="l-yellow">✗</span>] Redux.js </div></td>
+                            <td><div class="lib">[<span class="l-yellow">✗</span>] Socket.io </div></td>
+                        </tr>
+
+                                           
+                       
+                        <tr >
+                            <td><div class="DB">[<span class="l-yellow">✗</span>] Firebase </div></td>
+                            <td><div class="DB">[<span class="l-yellow">✗</span>] MongoDB </div></td>
+                            <td><div class="DB">[<span class="l-yellow">✗</span>] Supabase </div></td>
+                        </tr>
+                        <tr >
+                            <td><div class="DB">[<span class="l-yellow">✗</span>] MySQL </div></td>
+                        </tr>          
+
+                        <tr >
+                            <td><div class="tool">[<span class="l-yellow">✗</span>] Nodejs </div></td>
+                            <td><div class="tool">[<span class="l-yellow">✗</span>] Linux </div></td>
+                            <td><div class="tool">[<span class="l-yellow">✗</span>] Git </div></td>
+                          </tr>
+                          <tr >
+                            <td><div class="tool">[<span class="l-yellow">✗</span>] VSCode </div></td>
+                          </tr>
+                      </table>
+                    <p style="margin-left:9px" class="line4 lime">come back soon to see more</p>
+                    <p style="margin-left:9px" class="line4 lime">more skills loading ...<span class="cursor1">_</span></p>
+                    <!-- <p style="margin-left:8px" class="line4">><span class="cursor4">_</span></p> -->
+                    <div  class="line4 red">┌─[<span class="lime">software-engineer</span><span class="l-yellow">@</span><span class="frozi">full-stack-web-dev</span>]─[<span class="t-green">~</span>]</div>
+                    
+                    <div class="line4 red">
+                        └──╼<span class="l-yellow"> $</span>
+                      <div class="commmand"><span class="cursor4">_</span></div>
+                    </div>
+                  </div>
+            
+        </div>
+    </foreignObject>
+</svg>

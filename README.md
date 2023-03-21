@@ -1,13 +1,9 @@
 <div id="header" style="text-align:center;">
-  <div id="badges">
-
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   
-    
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
-  </div>
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ 
   <img src="https://komarev.com/ghpvc/?username=umairabbasDev&style=flat-square&color=blue" alt="Profile Views"/>
+
   <h1>
     Hi, it's Umair Muhammad Abbas
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

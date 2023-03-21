@@ -17,24 +17,11 @@
  I’m a full time self-thought Software Engineer and full stack web developer experience in building websites, Low Level Coding , compilers, cli tools.
  I Love to Explore new technologies, algorithms and try new software architecture.
 
+---
 
 <div>
-	<img src="./terminal.svg"   alt="terminal" width="700" height="1200">
+	<img src="./terminal.svg"   alt="terminal" width="800" height="400">
 </div>
-
-
-<!-- ```bash
-┌─[blackfire@blackfire]─[~]
-└──╼ $ sudo skills --show
-[x] HTML/CSS        [x] Socket.io
-[x] React.js        [x] MongoDB
-[x] Tailwind CSS    [x] MySQL
-[x] Node.js         [x] PostgreSQL
-[x] JavaScript      [x] GraphQL
-[x] TypeScript      [x] Linux
-```
- -->
-
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-umair-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umair-abbas-a43503121)
 ---

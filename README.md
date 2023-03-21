@@ -18,10 +18,10 @@
  I Love to Explore new technologies, algorithms and try new software architecture.
 
 ---
-
-<div>
+[![](./terminal.svg)](#)
+<!-- <div>
 	<img src="./terminal.svg"   alt="terminal" width="800" height="400">
-</div>
+</div> -->
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-umair-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umair-abbas-a43503121)
 ---

@@ -1,11 +1,11 @@
 <div id="header" style="text-align:center;">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/umair-m-abbas/">
+
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/umair_abba">
+   
+    
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+
   </div>
   <img src="https://komarev.com/ghpvc/?username=umairabbasDev&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
@@ -28,7 +28,7 @@
 
 ---
 
-### My Stats:
+### My Stats
 
 <div style="display:flex; justify-content:center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=umairabbasDev&theme=dark&border_radius=4.3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="48%" style="margin-right:2%; margin-top:5px; margin-bottom:5px; height: 150px;">

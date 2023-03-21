@@ -1,15 +1,17 @@
 <div id="header" align="center">
-<div>
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/umair-abbas-a43503121/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/umair_abba">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
- 
-  <img src="https://komarev.com/ghpvc/?username=umairabbasDev&style=flat-square&color=blue" alt="Profile Views"/>
-
-  <h1>
-    Hi, it's Umair Muhammad Abbas
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<img src="https://komarev.com/ghpvc/?username=umairabbasDev&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hi, it's Umair Muhammad Abbas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 <p>I’m a full-time self-taught Software Engineer and full-stack web developer experienced in building websites, low-level coding, compilers, and CLI tools. I love to explore new technologies, algorithms, and try new software architectures.</p>

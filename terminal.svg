@@ -384,7 +384,7 @@
                     <table style="margin-left:8px" >
                         <tr >
                             <td><div class="framework">[<span class="l-yellow">✗</span>] Tailwind CSS </div></td>
-                            <td><div class="framework">[<span class="l-yellow">✗</span>] Bottstrap </div></td>
+                            <td><div class="framework">[<span class="l-yellow">✗</span>] Bootstrap </div></td>
                             <td><div class="framework">[<span class="l-yellow">✗</span>] Nextjs </div></td>
                         </tr>
 
@@ -456,8 +456,8 @@
                             <td><div class="tool">[<span class="l-yellow">✗</span>] VSCode </div></td>
                           </tr>
                       </table>
-                    <p style="margin-left:9px" class="line4 lime">come back soon to see more</p>
-                    <p style="margin-left:9px" class="line4 lime">more skills loading ...<span class="cursor1">_</span></p>
+                    <p style="margin-left:9px" class="line4 lime">come back later </p>
+                    <p style="margin-left:9px" class="line4 lime">to see more skills loading ...<span class="cursor1">| </span></p>
                     <!-- <p style="margin-left:8px" class="line4">><span class="cursor4">_</span></p> -->
                     <div  class="line4 red">┌─[<span class="lime">software-engineer</span><span class="l-yellow">@</span><span class="frozi">full-stack-web-dev</span>]─[<span class="t-green">~</span>]</div>
                     
